@@ -2,11 +2,11 @@
 
 ## v0.9.3 / 2014-12-31
 
-* kqueue: cleanup internal watch before sending remove event [#51](https://github.com/go-fsnotify/fsnotify/issues/51)
+* kqueue: cleanup internal watch before sending remove event [#51](https://github.com/sablev/fsnotify/issues/51)
 
 ## v0.9.2 / 2014-08-17
 
-* [Backport] Fix missing create events on OS X. [#14](https://github.com/go-fsnotify/fsnotify/issues/14) (thanks @zhsso)
+* [Backport] Fix missing create events on OS X. [#14](https://github.com/sablev/fsnotify/issues/14) (thanks @zhsso)
 
 ## v0.9.1 / 2014-06-12
 
